@@ -15,7 +15,7 @@ This project is designed to help beginners understand the complete RAG pipeline 
 - Retrieve the most relevant document chunks
 - Generate answers using:
   - **DeepSeek API**
-  - **Ollama** (Local LLM)
+  - **Ollama** (Local LLM) uses tiny llama for low-end computers run it locally 
 
 ---
 
